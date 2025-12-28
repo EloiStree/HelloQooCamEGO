@@ -23,3 +23,8 @@ https://youtu.be/vKDf1pTZqSQ?t=324
 EGO for Quest 3 ?
 [<img width="1371" height="740" alt="image" src="https://github.com/user-attachments/assets/0c122d3d-bb37-4e8f-b5bb-bff9c86e87e9" />](https://www.youtube.com/watch?v=ykRChGrnAMo)  
 https://www.youtube.com/watch?v=ykRChGrnAMo  
+
+
+DNG ?
+https://360rumors.com/qoocam-ego-raw/
+What is a DNG ?
