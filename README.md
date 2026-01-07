@@ -1,10 +1,10 @@
 # HelloQooCamEGO
 I bough an Qoo Cam EGO, let's search around.
 
-Website: https://www.kandaovr.com/qoocam-ego
-Manual: https://www.kandaovr.com/support/qoocam-ego
-Software: https://www.kandaovr.com/download
-Specifications: https://www.kandaovr.com/support/qoocam-ego/mvpE8xNQJKNk
+Website: https://www.kandaovr.com/qoocam-ego  
+Manual: https://www.kandaovr.com/support/qoocam-ego  
+Software: https://www.kandaovr.com/download  
+Specifications: https://www.kandaovr.com/support/qoocam-ego/mvpE8xNQJKNk  
 [<img width="989" height="721" alt="image" src="https://github.com/user-attachments/assets/6ced15c5-5518-4f95-87e6-72bc99d91e24" />](https://www.kandaovr.com/support/qoocam-ego/mvpE8xNQJKNk)
 
 If you just got the camera... 
@@ -28,3 +28,28 @@ https://www.youtube.com/watch?v=ykRChGrnAMo
 DNG ?
 https://360rumors.com/qoocam-ego-raw/
 What is a DNG ?
+
+
+
+
+-------------------
+
+
+
+[<img width="1483" height="835" alt="image" src="https://github.com/user-attachments/assets/32d1f8d7-2b55-431c-a512-6d9791c27749" />](https://youtu.be/J8sSeSUIMgM?t=246)
+https://youtu.be/J8sSeSUIMgM?t=246  
+
+```
+arp -a | findstr dynamic
+```
+
+```
+rtsp://10.69.98.130/liveRTSP/av0
+```
+
+
+
+
+
+
+
